@@ -1,0 +1,11 @@
+
+Debug/
+Release/
+*.lib
+*.dll
+*.dsp
+*.dsw
+*.ncb
+*.opt
+*.plg
+
